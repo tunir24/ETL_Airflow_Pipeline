@@ -1,6 +1,6 @@
 Set-Up Apache Airflow Ecosystem Using Astro
 
- -> Enable Windows Subsystem For Linux (WSL)
+ -> Enable Windows Subsystem For Linux (WSL)<br>
  -> Run command : wsl --update
        			  wsl --install --no-distribution
  -> Run Command Prompt as Administrator
